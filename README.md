@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherlin Daison</h1>
-<h3 align="center">I am passionate Software Developer / Data Analytics from India</h3>
+<h3 align="center">I am passionate Software Developer / Data Analyst from India</h3>
 
 - 🌱 I’m currently learning **Data Analytics**
 
