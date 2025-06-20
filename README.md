@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherlin Daison</h1>
-<h3 align="center">I have completed my postgraduate degree in Computer Science with a specialization in Data Analytics. Currently, I am working as a Software Testing Intern, gaining practical experience in Manual, Automation, API, and Performance Testing. I am passionate about leveraging my analytical skills to enhance testing processes and ensure the delivery of high-quality software products.</h3>
+<h3 align="center">I have completed my postgraduate degree in Computer Science with a specialization in Data Analytics. I recently completed a Software Testing Internship, where I gained hands-on experience in Manual, Automation, API, and Performance Testing. I am passionate about leveraging my analytical and technical skills to enhance testing processes, ensure software quality, and contribute effectively to product development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherlin-2002&label=Profile%20views&color=0e75b6&style=flat" alt="sherlin-2002" /> </p>
 
